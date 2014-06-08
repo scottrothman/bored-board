@@ -1,0 +1,2 @@
+# esboard
+### a Sails application
