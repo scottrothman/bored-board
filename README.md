@@ -1,2 +1,2 @@
-# esboard
+# bored-board
 ### a Sails application
